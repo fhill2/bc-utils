@@ -1,0 +1,3382 @@
+{
+    "ZC": {
+        "code": "ZC",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ZO": {
+        "code": "ZO",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ZW": {
+        "code": "ZW",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "KE": {
+        "code": "KE",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ZS": {
+        "code": "ZS",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ZR": {
+        "code": "ZR",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ZM": {
+        "code": "ZM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ZL": {
+        "code": "ZL",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "EH": {
+        "code": "EH",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FZE": {
+        "code": "FZE",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "BCX": {
+        "code": "BCX",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "UME": {
+        "code": "UME",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "UFV": {
+        "code": "UFV",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "UFE": {
+        "code": "UFE",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "UFB": {
+        "code": "UFB",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "DFN": {
+        "code": "DFN",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "UNO": {
+        "code": "UNO",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SAS": {
+        "code": "SAS",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "AUW": {
+        "code": "AUW",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CWR": {
+        "code": "CWR",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "AW": {
+        "code": "AW",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "RX": {
+        "code": "RX",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ZB": {
+        "code": "ZB",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ZN": {
+        "code": "ZN",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ZF": {
+        "code": "ZF",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "Z3N": {
+        "code": "Z3N",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ZT": {
+        "code": "ZT",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "UB": {
+        "code": "UB",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "TN": {
+        "code": "TN",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ZQ": {
+        "code": "ZQ",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "30Y": {
+        "code": "30Y",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "10Y": {
+        "code": "10Y",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "5YY": {
+        "code": "5YY",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "2YY": {
+        "code": "2YY",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "YM": {
+        "code": "YM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MYM": {
+        "code": "MYM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "XC": {
+        "code": "XC",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "XW": {
+        "code": "XW",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "XK": {
+        "code": "XK",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MKC": {
+        "code": "MKC",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "GF": {
+        "code": "GF",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "LE": {
+        "code": "LE",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "HE": {
+        "code": "HE",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "PRK": {
+        "code": "PRK",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CB": {
+        "code": "CB",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "DC": {
+        "code": "DC",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "GNF": {
+        "code": "GNF",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "GDK": {
+        "code": "GDK",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ZX": {
+        "code": "ZX",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CSC": {
+        "code": "CSC",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CPO": {
+        "code": "CPO",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "LBR": {
+        "code": "LBR",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "DY": {
+        "code": "DY",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "OPS": {
+        "code": "OPS",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "BTC": {
+        "code": "BTC",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "BTI": {
+        "code": "BTI",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ETH": {
+        "code": "ETH",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ETE": {
+        "code": "ETE",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "6A": {
+        "code": "6A",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "6B": {
+        "code": "6B",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "6C": {
+        "code": "6C",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "6J": {
+        "code": "6J",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "6E": {
+        "code": "6E",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "6S": {
+        "code": "6S",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "6M": {
+        "code": "6M",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "6L": {
+        "code": "6L",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "6N": {
+        "code": "6N",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "6R": {
+        "code": "6R",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "6Z": {
+        "code": "6Z",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ZAR": {
+        "code": "ZAR",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "RP": {
+        "code": "RP",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "RY": {
+        "code": "RY",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "RF": {
+        "code": "RF",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SEK": {
+        "code": "SEK",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "NOK": {
+        "code": "NOK",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ESK": {
+        "code": "ESK",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ENK": {
+        "code": "ENK",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "EAD": {
+        "code": "EAD",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ECD": {
+        "code": "ECD",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CJY": {
+        "code": "CJY",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ACD": {
+        "code": "ACD",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ANE": {
+        "code": "ANE",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "AJY": {
+        "code": "AJY",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "PSF": {
+        "code": "PSF",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "PJY": {
+        "code": "PJY",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SJY": {
+        "code": "SJY",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ECK": {
+        "code": "ECK",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "PLN": {
+        "code": "PLN",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "HFO": {
+        "code": "HFO",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CZK": {
+        "code": "CZK",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "EHF": {
+        "code": "EHF",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ILS": {
+        "code": "ILS",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "EPZ": {
+        "code": "EPZ",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "KRW": {
+        "code": "KRW",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "RME": {
+        "code": "RME",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "RMB": {
+        "code": "RMB",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "TRL": {
+        "code": "TRL",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CNH": {
+        "code": "CNH",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SIR": {
+        "code": "SIR",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CHL": {
+        "code": "CHL",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CHP": {
+        "code": "CHP",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "EC": {
+        "code": "EC",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SG": {
+        "code": "SG",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SU": {
+        "code": "SU",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "TRI": {
+        "code": "TRI",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SDA": {
+        "code": "SDA",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "H20": {
+        "code": "H20",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "NKD": {
+        "code": "NKD",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "NIY": {
+        "code": "NIY",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "TPY": {
+        "code": "TPY",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "TPD": {
+        "code": "TPD",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "IBV": {
+        "code": "IBV",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "GD": {
+        "code": "GD",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "GIE": {
+        "code": "GIE",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "XAY": {
+        "code": "XAY",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "XAP": {
+        "code": "XAP",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "XAE": {
+        "code": "XAE",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "XAF": {
+        "code": "XAF",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "XAV": {
+        "code": "XAV",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "XAI": {
+        "code": "XAI",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "XAB": {
+        "code": "XAB",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "XAK": {
+        "code": "XAK",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "XAU": {
+        "code": "XAU",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "XAR": {
+        "code": "XAR",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "XAZ": {
+        "code": "XAZ",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SXB": {
+        "code": "SXB",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SXI": {
+        "code": "SXI",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SXT": {
+        "code": "SXT",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SXO": {
+        "code": "SXO",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SXR": {
+        "code": "SXR",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SOX": {
+        "code": "SOX",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "BSB": {
+        "code": "BSB",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SR1": {
+        "code": "SR1",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SR3": {
+        "code": "SR3",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ESR": {
+        "code": "ESR",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MPC": {
+        "code": "MPC",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SON": {
+        "code": "SON",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ES": {
+        "code": "ES",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MES": {
+        "code": "MES",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ESG": {
+        "code": "ESG",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "EMD": {
+        "code": "EMD",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MMC": {
+        "code": "MMC",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "E3G": {
+        "code": "E3G",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SMC": {
+        "code": "SMC",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MSC": {
+        "code": "MSC",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "NQ": {
+        "code": "NQ",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MNQ": {
+        "code": "MNQ",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "QCN": {
+        "code": "QCN",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "BIO": {
+        "code": "BIO",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "RTY": {
+        "code": "RTY",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "M2K": {
+        "code": "M2K",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "R2G": {
+        "code": "R2G",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "R2V": {
+        "code": "R2V",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "RS1": {
+        "code": "RS1",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "RSG": {
+        "code": "RSG",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "RSV": {
+        "code": "RSV",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MBT": {
+        "code": "MBT",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MET": {
+        "code": "MET",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FTU": {
+        "code": "FTU",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FT1": {
+        "code": "FT1",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FT5": {
+        "code": "FT5",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "EI": {
+        "code": "EI",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "DVE": {
+        "code": "DVE",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "IPO": {
+        "code": "IPO",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "J7": {
+        "code": "J7",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "E7": {
+        "code": "E7",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "M6B": {
+        "code": "M6B",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "M6E": {
+        "code": "M6E",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "M6A": {
+        "code": "M6A",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MCD": {
+        "code": "MCD",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "M6C": {
+        "code": "M6C",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "M6J": {
+        "code": "M6J",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MSF": {
+        "code": "MSF",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "M6S": {
+        "code": "M6S",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MNH": {
+        "code": "MNH",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MIR": {
+        "code": "MIR",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CL": {
+        "code": "CL",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "BB": {
+        "code": "BB",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MB": {
+        "code": "MB",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "EZ": {
+        "code": "EZ",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CU": {
+        "code": "CU",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "Z1": {
+        "code": "Z1",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "HO": {
+        "code": "HO",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "RB": {
+        "code": "RB",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "NG": {
+        "code": "NG",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "PA": {
+        "code": "PA",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "PL": {
+        "code": "PL",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "GEO": {
+        "code": "GEO",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "NGO": {
+        "code": "NGO",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CGO": {
+        "code": "CGO",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "COT": {
+        "code": "COT",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "NOT": {
+        "code": "NOT",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ECF": {
+        "code": "ECF",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "WS": {
+        "code": "WS",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "BZ": {
+        "code": "BZ",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MP": {
+        "code": "MP",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "RT": {
+        "code": "RT",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "HP": {
+        "code": "HP",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "HH": {
+        "code": "HH",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "QH": {
+        "code": "QH",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "QU": {
+        "code": "QU",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "QG": {
+        "code": "QG",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "PAM": {
+        "code": "PAM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "PLM": {
+        "code": "PLM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "QM": {
+        "code": "QM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MCL": {
+        "code": "MCL",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MHO": {
+        "code": "MHO",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MRB": {
+        "code": "MRB",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CJ": {
+        "code": "CJ",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "KT": {
+        "code": "KT",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "TT": {
+        "code": "TT",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "YO": {
+        "code": "YO",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "HG": {
+        "code": "HG",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "HGS": {
+        "code": "HGS",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "GC": {
+        "code": "GC",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "GCK": {
+        "code": "GCK",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "4GC": {
+        "code": "4GC",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SI": {
+        "code": "SI",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ZNC": {
+        "code": "ZNC",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ALI": {
+        "code": "ALI",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "LED": {
+        "code": "LED",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SGU": {
+        "code": "SGU",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SGC": {
+        "code": "SGC",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "HR": {
+        "code": "HR",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "BUS": {
+        "code": "BUS",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "TIO": {
+        "code": "TIO",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "QO": {
+        "code": "QO",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MGC": {
+        "code": "MGC",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "QI": {
+        "code": "QI",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SIL": {
+        "code": "SIL",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "QC": {
+        "code": "QC",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MHG": {
+        "code": "MHG",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "KC": {
+        "code": "KC",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CC": {
+        "code": "CC",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SB": {
+        "code": "SB",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SF": {
+        "code": "SF",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CT": {
+        "code": "CT",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "OJ": {
+        "code": "OJ",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "30C": {
+        "code": "30C",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "30J": {
+        "code": "30J",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "DX": {
+        "code": "DX",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "KOL": {
+        "code": "KOL",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "AR": {
+        "code": "AR",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "YA": {
+        "code": "YA",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "KEO": {
+        "code": "KEO",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "KSN": {
+        "code": "KSN",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "KSV": {
+        "code": "KSV",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "KMF": {
+        "code": "KMF",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SY": {
+        "code": "SY",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SS": {
+        "code": "SS",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "KAU": {
+        "code": "KAU",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "KZX": {
+        "code": "KZX",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "KEP": {
+        "code": "KEP",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "AS": {
+        "code": "AS",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "HY": {
+        "code": "HY",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "KX": {
+        "code": "KX",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "NT": {
+        "code": "NT",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "KRA": {
+        "code": "KRA",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "KGB": {
+        "code": "KGB",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "KEJ": {
+        "code": "KEJ",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "KRK": {
+        "code": "KRK",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "KRZ": {
+        "code": "KRZ",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "NJ": {
+        "code": "NJ",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "KZY": {
+        "code": "KZY",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "VC": {
+        "code": "VC",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "VU": {
+        "code": "VU",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "YZ": {
+        "code": "YZ",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "QA": {
+        "code": "QA",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "GN": {
+        "code": "GN",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "PC": {
+        "code": "PC",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "PK": {
+        "code": "PK",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "PZ": {
+        "code": "PZ",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "PS": {
+        "code": "PS",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ZJ": {
+        "code": "ZJ",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "KY": {
+        "code": "KY",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "KJ": {
+        "code": "KJ",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "KMP": {
+        "code": "KMP",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ETR": {
+        "code": "ETR",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "TRM": {
+        "code": "TRM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "BTM": {
+        "code": "BTM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FNG": {
+        "code": "FNG",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MME": {
+        "code": "MME",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MFS": {
+        "code": "MFS",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MUN": {
+        "code": "MUN",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MCU": {
+        "code": "MCU",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MRG": {
+        "code": "MRG",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MFU": {
+        "code": "MFU",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MEU": {
+        "code": "MEU",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MMN": {
+        "code": "MMN",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MPP": {
+        "code": "MPP",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MCE": {
+        "code": "MCE",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MGE": {
+        "code": "MGE",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MPU": {
+        "code": "MPU",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MWL": {
+        "code": "MWL",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MLE": {
+        "code": "MLE",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "AWN": {
+        "code": "AWN",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MMW": {
+        "code": "MMW",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "YOPT": {
+        "code": "YOPT",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ASN": {
+        "code": "ASN",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MMR": {
+        "code": "MMR",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MIN": {
+        "code": "MIN",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ASI": {
+        "code": "ASI",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MWS": {
+        "code": "MWS",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "AOT": {
+        "code": "AOT",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "IPB": {
+        "code": "IPB",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "AOU": {
+        "code": "AOU",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "IPP": {
+        "code": "IPP",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SR": {
+        "code": "SR",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "RS": {
+        "code": "RS",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "VX": {
+        "code": "VX",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "VXM": {
+        "code": "VXM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "VX1": {
+        "code": "VX1",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "VX2": {
+        "code": "VX2",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "IBIG": {
+        "code": "IBIG",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "IBHY": {
+        "code": "IBHY",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "LB5": {
+        "code": "LB5",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "B5": {
+        "code": "B5",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MWE": {
+        "code": "MWE",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SPK": {
+        "code": "SPK",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "IH": {
+        "code": "IH",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "IC": {
+        "code": "IC",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "IS": {
+        "code": "IS",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "IP": {
+        "code": "IP",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "IW": {
+        "code": "IW",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "LGB": {
+        "code": "LGB",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CGB": {
+        "code": "CGB",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CGF": {
+        "code": "CGF",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CGZ": {
+        "code": "CGZ",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "BAX": {
+        "code": "BAX",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CRA": {
+        "code": "CRA",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SXF": {
+        "code": "SXF",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SXM": {
+        "code": "SXM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SCF": {
+        "code": "SCF",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SXK": {
+        "code": "SXK",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SXY": {
+        "code": "SXY",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SXH": {
+        "code": "SXH",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SXU": {
+        "code": "SXU",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SXA": {
+        "code": "SXA",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "S10Y": {
+        "code": "S10Y",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "S2Y": {
+        "code": "S2Y",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "S30Y": {
+        "code": "S30Y",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "DI1": {
+        "code": "DI1",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "DAP": {
+        "code": "DAP",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "DDI": {
+        "code": "DDI",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FRC": {
+        "code": "FRC",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "BGI": {
+        "code": "BGI",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "DOL": {
+        "code": "DOL",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "WDO": {
+        "code": "WDO",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ICF": {
+        "code": "ICF",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "IND": {
+        "code": "IND",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "WIN": {
+        "code": "WIN",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CCM": {
+        "code": "CCM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SJC": {
+        "code": "SJC",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SOY": {
+        "code": "SOY",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "AUD": {
+        "code": "AUD",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "EUR": {
+        "code": "EUR",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CAD": {
+        "code": "CAD",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CLP": {
+        "code": "CLP",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "JPY": {
+        "code": "JPY",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MXN": {
+        "code": "MXN",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "GBP": {
+        "code": "GBP",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CHF": {
+        "code": "CHF",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "TRY": {
+        "code": "TRY",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "NZD": {
+        "code": "NZD",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "WO": {
+        "code": "WO",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CR": {
+        "code": "CR",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SOY.MCE": {
+        "code": "SOY.MCE",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "DLR": {
+        "code": "DLR",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "OQD": {
+        "code": "OQD",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ZGD": {
+        "code": "ZGD",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "DG": {
+        "code": "DG",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "DINR": {
+        "code": "DINR",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "WMAZ": {
+        "code": "WMAZ",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "YMAZ": {
+        "code": "YMAZ",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "WEAT": {
+        "code": "WEAT",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SUNS": {
+        "code": "SUNS",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SOYA": {
+        "code": "SOYA",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CORN": {
+        "code": "CORN",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "BEAN": {
+        "code": "BEAN",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FCE": {
+        "code": "FCE",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "XFC": {
+        "code": "XFC",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "BXF": {
+        "code": "BXF",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "PSI": {
+        "code": "PSI",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FTI": {
+        "code": "FTI",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "EFP": {
+        "code": "EFP",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "EFE": {
+        "code": "EFE",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ECO": {
+        "code": "ECO",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "EMA": {
+        "code": "EMA",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "EBM": {
+        "code": "EBM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "EDW": {
+        "code": "EDW",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "C": {
+        "code": "C",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "RC": {
+        "code": "RC",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "W": {
+        "code": "W",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "T": {
+        "code": "T",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "BRN": {
+        "code": "BRN",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "WBS": {
+        "code": "WBS",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "HOU": {
+        "code": "HOU",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "DBI": {
+        "code": "DBI",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "GAS": {
+        "code": "GAS",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "GWM": {
+        "code": "GWM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "TFN": {
+        "code": "TFN",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "UHU": {
+        "code": "UHU",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "UHO": {
+        "code": "UHO",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ATW": {
+        "code": "ATW",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "AFR": {
+        "code": "AFR",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "NCF": {
+        "code": "NCF",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CO2": {
+        "code": "CO2",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "UBL": {
+        "code": "UBL",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "UPL": {
+        "code": "UPL",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "UKA": {
+        "code": "UKA",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "TFM": {
+        "code": "TFM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "AVM": {
+        "code": "AVM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "IGA": {
+        "code": "IGA",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "PEG": {
+        "code": "PEG",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "DPB": {
+        "code": "DPB",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "DPA": {
+        "code": "DPA",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "GAB": {
+        "code": "GAB",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "GAP": {
+        "code": "GAP",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FNB": {
+        "code": "FNB",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FNA": {
+        "code": "FNA",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "BEB": {
+        "code": "BEB",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "BEP": {
+        "code": "BEP",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SWB": {
+        "code": "SWB",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SPB": {
+        "code": "SPB",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "GNM": {
+        "code": "GNM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "Z": {
+        "code": "Z",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "Y2": {
+        "code": "Y2",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "XZ": {
+        "code": "XZ",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MPE": {
+        "code": "MPE",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "EWS": {
+        "code": "EWS",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MWW": {
+        "code": "MWW",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MCG": {
+        "code": "MCG",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "UEW": {
+        "code": "UEW",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "UKM": {
+        "code": "UKM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "I": {
+        "code": "I",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "EON": {
+        "code": "EON",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ER3": {
+        "code": "ER3",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SOA": {
+        "code": "SOA",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SO3": {
+        "code": "SO3",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SF1": {
+        "code": "SF1",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SF3": {
+        "code": "SF3",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "TWS": {
+        "code": "TWS",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "O": {
+        "code": "O",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "P": {
+        "code": "P",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "U": {
+        "code": "U",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "R": {
+        "code": "R",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "H": {
+        "code": "H",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "G": {
+        "code": "G",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FDAX": {
+        "code": "FDAX",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FDXM": {
+        "code": "FDXM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FDXS": {
+        "code": "FDXS",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FTDX": {
+        "code": "FTDX",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FSMX": {
+        "code": "FSMX",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FESX": {
+        "code": "FESX",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FSXE": {
+        "code": "FSXE",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "TESX": {
+        "code": "TESX",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FSSX": {
+        "code": "FSSX",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FSTX": {
+        "code": "FSTX",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FESS": {
+        "code": "FESS",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FSMI": {
+        "code": "FSMI",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FSMM": {
+        "code": "FSMM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FSLI": {
+        "code": "FSLI",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FATX": {
+        "code": "FATX",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FFOX": {
+        "code": "FFOX",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FSTB": {
+        "code": "FSTB",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FESB": {
+        "code": "FESB",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FSTV": {
+        "code": "FSTV",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FSTU": {
+        "code": "FSTU",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FSTT": {
+        "code": "FSTT",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FSTL": {
+        "code": "FSTL",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FSTH": {
+        "code": "FSTH",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FSTA": {
+        "code": "FSTA",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FEST": {
+        "code": "FEST",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FESC": {
+        "code": "FESC",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FESG": {
+        "code": "FESG",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FESE": {
+        "code": "FESE",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FESU": {
+        "code": "FESU",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FXXP": {
+        "code": "FXXP",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FXXE": {
+        "code": "FXXE",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FLCE": {
+        "code": "FLCE",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FMCE": {
+        "code": "FMCE",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FSCE": {
+        "code": "FSCE",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FLCP": {
+        "code": "FLCP",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FMCP": {
+        "code": "FMCP",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FSCP": {
+        "code": "FSCP",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FDIV": {
+        "code": "FDIV",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FEDV": {
+        "code": "FEDV",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FEXD": {
+        "code": "FEXD",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FEBD": {
+        "code": "FEBD",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FVS": {
+        "code": "FVS",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FMWO": {
+        "code": "FMWO",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FMEU": {
+        "code": "FMEU",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FMEF": {
+        "code": "FMEF",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FCAG": {
+        "code": "FCAG",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FCCO": {
+        "code": "FCCO",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FCEN": {
+        "code": "FCEN",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FCIN": {
+        "code": "FCIN",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FCXE": {
+        "code": "FCXE",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FCGR": {
+        "code": "FCGR",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FCLI": {
+        "code": "FCLI",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FCPE": {
+        "code": "FCPE",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FCPR": {
+        "code": "FCPR",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FCSO": {
+        "code": "FCSO",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FGBL": {
+        "code": "FGBL",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FGBM": {
+        "code": "FGBM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FGBS": {
+        "code": "FGBS",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FGBX": {
+        "code": "FGBX",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FOAT": {
+        "code": "FOAT",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FOAM": {
+        "code": "FOAM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CONF": {
+        "code": "CONF",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FBON": {
+        "code": "FBON",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FBTP": {
+        "code": "FBTP",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FBTM": {
+        "code": "FBTM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FBTS": {
+        "code": "FBTS",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FEU3": {
+        "code": "FEU3",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FAPP": {
+        "code": "FAPP",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FASM": {
+        "code": "FASM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FALM": {
+        "code": "FALM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FABT": {
+        "code": "FABT",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FAWH": {
+        "code": "FAWH",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "BUX": {
+        "code": "BUX",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "AA": {
+        "code": "AA",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "AH": {
+        "code": "AH",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "NA": {
+        "code": "NA",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "PB": {
+        "code": "PB",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "NI": {
+        "code": "NI",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CA": {
+        "code": "CA",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SN": {
+        "code": "SN",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "AF": {
+        "code": "AF",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CO": {
+        "code": "CO",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SC": {
+        "code": "SC",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ST": {
+        "code": "ST",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "HN": {
+        "code": "HN",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "HU": {
+        "code": "HU",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "HC": {
+        "code": "HC",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "UP": {
+        "code": "UP",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "EA": {
+        "code": "EA",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "AM": {
+        "code": "AM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MD": {
+        "code": "MD",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "OMXS30": {
+        "code": "OMXS30",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FIBX": {
+        "code": "FIBX",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FMIX": {
+        "code": "FMIX",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "TRYUSD": {
+        "code": "TRYUSD",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "TRYEUR": {
+        "code": "TRYEUR",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "XU030": {
+        "code": "XU030",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "IF": {
+        "code": "IF",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "IM": {
+        "code": "IM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "TL": {
+        "code": "TL",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "TF": {
+        "code": "TF",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "TS": {
+        "code": "TS",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "B": {
+        "code": "B",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "A": {
+        "code": "A",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "M": {
+        "code": "M",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CS": {
+        "code": "CS",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "Y": {
+        "code": "Y",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "LH": {
+        "code": "LH",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "L": {
+        "code": "L",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "PP": {
+        "code": "PP",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "V": {
+        "code": "V",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "EG": {
+        "code": "EG",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "JM": {
+        "code": "JM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "JD": {
+        "code": "JD",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "EB": {
+        "code": "EB",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "PG": {
+        "code": "PG",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FB": {
+        "code": "FB",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "HSI": {
+        "code": "HSI",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MHI": {
+        "code": "MHI",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "HTI": {
+        "code": "HTI",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MCA": {
+        "code": "MCA",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "HB3": {
+        "code": "HB3",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "HHI": {
+        "code": "HHI",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MCH": {
+        "code": "MCH",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "DHS": {
+        "code": "DHS",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "DHH": {
+        "code": "DHH",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CUS": {
+        "code": "CUS",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "LRA": {
+        "code": "LRA",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "LRZ": {
+        "code": "LRZ",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "LRC": {
+        "code": "LRC",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "LRN": {
+        "code": "LRN",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "LRS": {
+        "code": "LRS",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "LRP": {
+        "code": "LRP",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "GDR": {
+        "code": "GDR",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "GDU": {
+        "code": "GDU",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FEM": {
+        "code": "FEM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ADM": {
+        "code": "ADM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "BM": {
+        "code": "BM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "GM": {
+        "code": "GM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CNM": {
+        "code": "CNM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CHM": {
+        "code": "CHM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SBD": {
+        "code": "SBD",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "225": {
+        "code": "225",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "N/A": {
+        "code": "N/A",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "NVI": {
+        "code": "NVI",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "400": {
+        "code": "400",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "TPX": {
+        "code": "TPX",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "TPXM": {
+        "code": "TPXM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MOTH": {
+        "code": "MOTH",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "JBL": {
+        "code": "JBL",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "JBM": {
+        "code": "JBM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "GLDM": {
+        "code": "GLDM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SILV": {
+        "code": "SILV",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "PLT": {
+        "code": "PLT",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "PLTM": {
+        "code": "PLTM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "PALD": {
+        "code": "PALD",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "RSS3": {
+        "code": "RSS3",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SOYB": {
+        "code": "SOYB",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "REDB": {
+        "code": "REDB",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "DBAI": {
+        "code": "DBAI",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "KRO": {
+        "code": "KRO",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "GAO": {
+        "code": "GAO",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CKRO": {
+        "code": "CKRO",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CGAS": {
+        "code": "CGAS",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FKLI": {
+        "code": "FKLI",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FM70": {
+        "code": "FM70",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FCPO": {
+        "code": "FCPO",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FPKO": {
+        "code": "FPKO",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FEPO": {
+        "code": "FEPO",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FUPO": {
+        "code": "FUPO",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FPOL": {
+        "code": "FPOL",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "USDINR": {
+        "code": "USDINR",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "JPYINR": {
+        "code": "JPYINR",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "EURINR": {
+        "code": "EURINR",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "GBPINR": {
+        "code": "GBPINR",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "BARLEYJPR": {
+        "code": "BARLEYJPR",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "DHANIYA": {
+        "code": "DHANIYA",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "JEERAUNJHA": {
+        "code": "JEERAUNJHA",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "TMCFGRNZM": {
+        "code": "TMCFGRNZM",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "KAPASSRNR": {
+        "code": "KAPASSRNR",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "GUARSEED10": {
+        "code": "GUARSEED10",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "GUARGUM5": {
+        "code": "GUARGUM5",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "COCUDAKL": {
+        "code": "COCUDAKL",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CASTOR": {
+        "code": "CASTOR",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "BAJRA": {
+        "code": "BAJRA",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MAIZE": {
+        "code": "MAIZE",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "WMP": {
+        "code": "WMP",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SMP": {
+        "code": "SMP",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "AMF": {
+        "code": "AMF",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "MKP": {
+        "code": "MKP",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "BTR": {
+        "code": "BTR",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "AL": {
+        "code": "AL",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FU": {
+        "code": "FU",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "LU": {
+        "code": "LU",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "AU": {
+        "code": "AU",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "AG": {
+        "code": "AG",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "RU": {
+        "code": "RU",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "WR": {
+        "code": "WR",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "BU": {
+        "code": "BU",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "AO": {
+        "code": "AO",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "BR": {
+        "code": "BR",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "SP": {
+        "code": "SP",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "NK": {
+        "code": "NK",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "NU": {
+        "code": "NU",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "NS": {
+        "code": "NS",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ND": {
+        "code": "ND",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "TWN": {
+        "code": "TWN",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CN": {
+        "code": "CN",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "JB": {
+        "code": "JB",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "JG": {
+        "code": "JG",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "FEF": {
+        "code": "FEF",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "M58F": {
+        "code": "M58F",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "M65F": {
+        "code": "M65F",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "See": {
+        "code": "See",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "Standard Grade) Futures (COMF": {
+        "code": "Standard Grade) Futures (COMF",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "Battery Grade) Futures (LICF": {
+        "code": "Battery Grade) Futures (LICF",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "Battery Grade) Futures (LIHF": {
+        "code": "Battery Grade) Futures (LIHF",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "CCF": {
+        "code": "CCF",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "ACF": {
+        "code": "ACF",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "M42F": {
+        "code": "M42F",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "PXF": {
+        "code": "PXF",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "BZF": {
+        "code": "BZF",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "IU": {
+        "code": "IU",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "US": {
+        "code": "US",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "KU": {
+        "code": "KU",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "TU": {
+        "code": "TU",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "EF": {
+        "code": "EF",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    },
+    "EE": {
+        "code": "EE",
+        "cycle": "FGHJKMNQUVXZ",
+        "tick_date": "1975-01-01"
+    }
+}
